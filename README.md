@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Full Stack Development,CP,DSA**
+- 💬 Ask me about **Full Stack Development,DSA**
 
 - 📫 How to reach me **adityakushwahaindia@gmail.com**
 
@@ -20,7 +20,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-kushwaha-3a9936285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-kushwaha-3a9936285/" height="30" width="40" /></a>
 <a href="https://kaggle.com/aadi2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aadi2005" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aadi_2005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aadi_2005" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aadi_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aadi_00" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aadi_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadi_2005" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aadi_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aadi_2005" height="30" width="40" /></a>
 </p>
