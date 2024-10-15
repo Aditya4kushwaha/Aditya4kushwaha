@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Aditya Kushwaha</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aditya4kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="aditya4kushwaha" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya4kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="aditya4kushwaha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya4kushwaha" alt="aditya4kushwaha" /></a> </p>
 
+- 🌱 I’m currently learning **Full Stack Development and Blockchain**
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **MERN,CP,DSA**
+- 💬 Ask me about **Full Stack Development,DSA,Blockchain**
 
 - 📫 How to reach me **adityakushwahaindia@gmail.com**
 
@@ -21,8 +21,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-kushwaha-3a9936285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-kushwaha-3a9936285/" height="30" width="40" /></a>
 <a href="https://kaggle.com/aadi2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aadi2005" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aadi_2005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aadi_2005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aadi_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadi_00" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adityakush19h5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityakush19h5" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aadi_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadi_2005" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aadi_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aadi_2005" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
