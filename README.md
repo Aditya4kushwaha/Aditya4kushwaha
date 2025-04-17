@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **MERN * Devops**
+- 💬 Ask me about **MERN | Devops**
 
 - 📫 How to reach me **adityakushwahaindia@gmail.com**
 
