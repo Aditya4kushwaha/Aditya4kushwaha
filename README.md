@@ -21,7 +21,7 @@
 ###
 
 <h3 align="left">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/link--v1.png" height="20" width="20" /> Connect with me:
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/link--v1.png" height="20" width="20" /> Coding Profiles
 </h3>
 
 <p align="left">
