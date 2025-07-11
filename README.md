@@ -21,23 +21,23 @@
 ###
 
 <h3 align="left">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/link--v1.png" height="20" width="20" /> Connect with me
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/link--v1.png" height="20" width="20" /> Connect with me:
 </h3>
 
 <p align="left">
-  <a href="https://www.leetcode.com/aadi_kush" target="blank">
+  <a href="https://www.leetcode.com/aadi_kush" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadi_kush" height="30" width="40" />
   </a>
   <img width="20" />
-  <a href="https://codeforces.com/profile/aadi_kush" target="blank">
+  <a href="https://codeforces.com/profile/aadi_kush" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aadi_kush" height="30" width="40" />
   </a>
   <img width="20" />
-  <a href="https://auth.geeksforgeeks.org/user/aadi_kush" target="blank">
+  <a href="https://auth.geeksforgeeks.org/user/aadi_kush" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aadi_kush" height="30" width="40" />
   </a>
   <img width="20" />
-  <a href="https://www.codechef.com/users/aadi_kush" target="blank">
+  <a href="https://www.codechef.com/users/aadi_kush" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aadi_kush" height="30" width="40" />
   </a>
 </p>
