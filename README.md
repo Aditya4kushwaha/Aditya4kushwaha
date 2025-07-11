@@ -15,7 +15,6 @@
 <p align="left">
   📚 I'm currently learning Full Stack Development<br>
   💬 Ask me about Full Stack Development <br>
-  📫 How to reach me: adityakushwahaindia@gmail.com
 </p>
 
 ###
