@@ -13,8 +13,8 @@
 ###
 
 <p align="left">
-  📚 I'm currently learning Typescript, PostgreSQL, Next.js <br>
-  💬 Ask me about Full Stack Development, Competetive Programming <br>
+  📚 I'm currently learning Backend <br>
+  💬 Ask me about MERN, Next.js, Backend, Gen AI <br>
 </p>
 
 ###
