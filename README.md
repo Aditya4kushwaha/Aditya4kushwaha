@@ -14,7 +14,7 @@
 
 <p align="left">
   📚 I'm currently learning Backend <br>
-  💬 Ask me about Full Stack Devlopment <br>
+  💬 Ask me about Full Stack Development <br>
 </p>
 
 ###
