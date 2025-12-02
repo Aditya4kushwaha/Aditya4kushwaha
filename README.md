@@ -14,7 +14,7 @@
 
 <p align="left">
   📚 I'm currently learning Backend <br>
-  💬 Ask me about MERN, Next.js, Backend, Gen AI <br>
+  💬 Ask me about Full Stack Devlopment <br>
 </p>
 
 ###
