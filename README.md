@@ -50,16 +50,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya4kushwaha&show_icons=true&theme=dracula&hide_border=false" height="180" />
 </div>
 
-###
-
-<h3 align="center">📫 Connect with Me</h3>
-
-<div align="center">
-  <a href="https://github.com/Aditya4kushwaha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  <img width="12" />
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
 </div>
