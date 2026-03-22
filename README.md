@@ -11,8 +11,8 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  📚 I'm currently learning Full Stack Development <br>
-  💬 Ask me about DSA | CP | Web Dev | AI <br>
+  📚 I'm currently learning Full Stack Development && AI/ML <br>
+  💬 Ask me about DSA | CP | Web Dev | AI/ML <br>
   🚀 Focused on building scalable web applications
 </p>
 
