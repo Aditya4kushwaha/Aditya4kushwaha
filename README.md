@@ -12,7 +12,7 @@
 
 <p align="left">
   📚 I'm currently learning Full Stack Development <br>
-  💬 Ask me about DSA | CP | Web Dev <br>
+  💬 Ask me about DSA | CP | Web Dev | AI <br>
   🚀 Focused on building scalable web applications
 </p>
 
@@ -46,9 +46,6 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
