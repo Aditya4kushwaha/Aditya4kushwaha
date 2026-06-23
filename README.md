@@ -103,7 +103,7 @@ Full-stack URL management system with analytics and authentication.
 
 * Portfolio: [https://adityadev-self.vercel.app](https://portfolio2-0-one-pi.vercel.app/)
 * GitHub: [https://github.com/Aditya4kushwaha](https://github.com/Aditya4kushwaha)
-* LinkedIn: https:[//linkedin.com/in/aditya-kushwaha](https://www.linkedin.com/in/aadi2005/)
+* LinkedIn: https:(https://www.linkedin.com/in/aadi2005/)
 
 ---
 
