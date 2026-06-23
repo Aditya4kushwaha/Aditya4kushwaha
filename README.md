@@ -56,11 +56,11 @@
 
 ## 📊 Competitive Programming
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/Codeforces-Pupil-0088CC?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-800%2B_Problems-success?style=for-the-badge" />
-</p>
+</p> -->
 
 * 🏅 Pupil on Codeforces 
 * ⭐ 3★ on CodeChef
