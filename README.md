@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aditya Kushwaha
 
-### 🚀 Full Stack Developer | Generative AI Enthusiast | Competitive Programmer
+### 🚀 Full Stack Developer | Generative AI | Competitive Programmer
 
 * 🎓 Final-Year B.Tech CSE Student at IIIT Bhagalpur
 * 💻 Building scalable web applications with MERN & Next.js
