@@ -1,62 +1,120 @@
-<h1 align="center">Hey there 👋, I'm Aditya Kushwaha</h1>
+# Hi 👋, I'm Aditya Kushwaha
 
-###
+### 🚀 Full Stack Developer | Generative AI Enthusiast | Competitive Programmer
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya4kushwaha.Aditya4kushwaha" alt="visitor badge" />
-</div>
+* 🎓 Final-Year B.Tech CSE Student at IIIT Bhagalpur
+* 💻 Building scalable web applications with MERN & Next.js
+* 🤖 Developing AI-powered applications using LangChain, LangGraph, and LLMs
+* 🌱 Currently exploring AI Agents, RAG Systems, MCP, and FastAPI
+* ⚡ Solved 800+ DSA problems across coding platforms
+* 🎯 Open to Software Development Engineer and AI Engineer opportunities
 
-###
+---
 
-<h3 align="left">👨‍💻 About Me</h3>
+## 🛠️ Tech Stack
 
-<p align="left">
-  📚 I'm currently learning Full Stack Development <br>
-  💬 Ask me about DSA | CP | Web Dev <br>
-  🚀 Focused on building scalable web applications
+### Languages
+
+```text
+Python • JavaScript • TypeScript • C++ • SQL
+```
+
+### Frontend
+
+```text
+React.js • Next.js • Tailwind CSS • HTML5 • CSS3
+```
+
+### Backend
+
+```text
+Node.js • Express.js • MongoDB • PostgreSQL • REST APIs
+```
+
+### Generative AI
+
+```text
+LangChain • LangGraph • FastAPI
+Google Gemini API • OpenAI API
+RAG • AI Agents • MCP
+ChromaDB • FAISS
+Prompt Engineering
+```
+
+### Tools
+
+```text
+Git • GitHub • Postman • Vercel • AWS
+VS Code • Linux • WSL
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 RAG Chatbot
+
+Built a Retrieval-Augmented Generation chatbot that enables users to upload documents and chat with them using semantic search.
+
+**Tech Stack:** LangChain, FastAPI, Google Gemini, ChromaDB
+
+### 📄 Resume Sync
+
+AI-powered resume analysis platform that improves ATS compatibility and provides resume insights.
+
+**Tech Stack:** Next.js, MongoDB, JWT, Google Gemini
+
+### 💬 Chit Chat
+
+Real-time messaging and video calling application.
+
+**Tech Stack:** MERN Stack, Socket.IO, WebRTC
+
+### 🔗 URL Shortener
+
+Full-stack URL management system with analytics and authentication.
+
+**Tech Stack:** Node.js, Express.js, MongoDB
+
+---
+
+## 📊 Competitive Programming
+
+* ⭐ CodeChef 3★ Programmer
+* 🧩 Solved 800+ DSA Problems
+* 🏆 Strong foundation in Data Structures & Algorithms
+* 🚀 Active on LeetCode, CodeChef, and Codeforces
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya4kushwaha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya4kushwaha&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
+## 🌐 Connect With Me
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
+* Portfolio: [https://adityadev-self.vercel.app](https://portfolio2-0-one-pi.vercel.app/)
+* GitHub: [https://github.com/Aditya4kushwaha](https://github.com/Aditya4kushwaha)
+* LinkedIn: https:[//linkedin.com/in/aditya-kushwaha](https://www.linkedin.com/in/aadi2005/)
 
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img width="12" />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
+### 💡 Current Focus
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
+```text
+Building Full-Stack Applications
++
+Developing AI Agents & RAG Systems
++
+Preparing for SDE & AI Engineer Roles
+```
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-</div>
-
-
-
-###
-
-<h3 align="center">🔥 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya4kushwaha&show_icons=true&theme=dracula&hide_border=false" height="180" />
-</div>
+> "Code. Learn. Build. Repeat."
