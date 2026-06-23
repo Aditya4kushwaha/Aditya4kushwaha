@@ -71,9 +71,9 @@ VS Code • Linux • WSL
 
 ## 🌐 Connect With Me
 
-* Portfolio: [https://adityadev-self.vercel.app](https://portfolio2-0-one-pi.vercel.app/)
-* GitHub: [https://github.com/Aditya4kushwaha](https://github.com/Aditya4kushwaha)
-* LinkedIn: https:(https://www.linkedin.com/in/aadi2005/)
+* Portfolio: (https://portfolio2-0-one-pi.vercel.app/)
+* GitHub: (https://github.com/Aditya4kushwaha)
+* LinkedIn: (https://www.linkedin.com/in/aadi2005/)
 
 ---
 
