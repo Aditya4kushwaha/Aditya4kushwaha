@@ -87,4 +87,4 @@ Developing AI Agents & RAG Systems
 Preparing for SDE & AI Engineer Roles
 ```
 
-> "Code. Learn. Build. Repeat."
+"Code. Learn. Build. Repeat."
