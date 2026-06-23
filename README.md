@@ -48,36 +48,6 @@ Git • GitHub • Postman • Vercel • AWS
 VS Code • Linux • WSL
 ```
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 RAG Chatbot
-
-Built a Retrieval-Augmented Generation chatbot that enables users to upload documents and chat with them using semantic search.
-
-**Tech Stack:** LangChain, FastAPI, Google Gemini, ChromaDB
-
-### 📄 Resume Sync
-
-AI-powered resume analysis platform that improves ATS compatibility and provides resume insights.
-
-**Tech Stack:** Next.js, MongoDB, JWT, Google Gemini
-
-### 💬 Chit Chat
-
-Real-time messaging and video calling application.
-
-**Tech Stack:** MERN Stack, Socket.IO, WebRTC
-
-### 🔗 URL Shortener
-
-Full-stack URL management system with analytics and authentication.
-
-**Tech Stack:** Node.js, Express.js, MongoDB
-
----
-
 ## 📊 Competitive Programming
 
 * ⭐ CodeChef 3★ Programmer
