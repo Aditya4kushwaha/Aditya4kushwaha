@@ -37,13 +37,10 @@
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MCP-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF4081?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-2962FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector DB-FF4081?style=for-the-badge" />
 </p>
 
 ### Tools & Platforms
