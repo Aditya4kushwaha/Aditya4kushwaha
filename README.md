@@ -6,8 +6,8 @@
 * 💻 Building scalable web applications with MERN & Next.js
 * 🤖 Developing AI-powered applications using LangChain, LangGraph, and LLMs
 * 🌱 Currently exploring AI Agents, RAG Systems, MCP, and FastAPI
-* ⚡ Solved 800+ DSA Problems across coding platforms
-* 🎯 Open to Software Development Engineer and AI Engineer opportunities
+* ⚡ Solved 1000+ DSA Problems across coding platforms
+* 🎯 Open to Software Development Engineer and AI + Full Stack Engineer opportunities
 
 ---
 
@@ -61,7 +61,7 @@
 
 * 🏅 Pupil on Codeforces 
 * ⭐ 3★ on CodeChef
-* 🧩 Solved 800+ DSA Problems
+* 🧩 Solved 1000+ DSA Problems
 
 ---
 
