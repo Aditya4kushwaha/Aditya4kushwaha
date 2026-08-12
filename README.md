@@ -3,9 +3,9 @@
 ### 🚀 Full Stack Developer | Generative AI | Competitive Programmer
 
 * 🎓 Final-Year B.Tech CSE Student at IIIT Bhagalpur
-* 💻 Building scalable web applications with MERN & Next.js
+* 💻 Building scalable web applications with React & Go
 * 🤖 Developing AI-powered applications using LangChain, LangGraph, and LLMs
-* 🌱 Currently exploring AI Agents, RAG Systems, MCP, and FastAPI
+* 🌱 Currently exploring AI Agents, RAG Systems, MCP, FastAPI, and Go
 * ⚡ Solved 1000+ DSA Problems across coding platforms
 * 🎯 Open to Software Development Engineer and AI + Full Stack Engineer opportunities
 
@@ -16,7 +16,7 @@
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,go,mysql" />
 </p>
 
 ### Frontend
@@ -28,7 +28,7 @@
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,go" />
 </p>
 
 ### Generative AI
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MCP-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector DB-FF4081?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_DB-FF4081?style=for-the-badge" />
 </p>
 
 ### Tools & Platforms
@@ -53,13 +53,7 @@
 
 ## 📊 Competitive Programming
 
-<!-- <p align="left">
-  <img src="https://img.shields.io/badge/Codeforces-Pupil-0088CC?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-800%2B_Problems-success?style=for-the-badge" />
-</p> -->
-
-* 🏅 Pupil on Codeforces 
+* 🏅 Pupil on Codeforces
 * ⭐ 3★ on CodeChef
 * 🧩 Solved 1000+ DSA Problems
 
@@ -84,6 +78,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://portfolio2-0-one-pi.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -95,7 +90,7 @@
 <a href="https://www.linkedin.com/in/aadi2005/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 </p>
 
 ---
-
