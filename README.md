@@ -3,7 +3,7 @@
 ### 🚀 Full Stack Developer | Generative AI | Competitive Programmer
 
 * 🎓 Final-Year B.Tech CSE Student at IIIT Bhagalpur
-* 💻 Building scalable web applications with React & Go
+* 💻 Building scalable web applications with MERN & Next.js
 * 🤖 Developing AI-powered applications using LangChain, LangGraph, and LLMs
 * 🌱 Currently exploring AI Agents, RAG Systems, MCP, FastAPI, and Go
 * ⚡ Solved 1000+ DSA Problems across coding platforms
