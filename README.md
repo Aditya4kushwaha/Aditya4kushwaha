@@ -53,6 +53,7 @@
 
 ## 📊 Competitive Programming
 
+* 🏅 Knight on LeetCode
 * 🏅 Pupil on Codeforces
 * ⭐ 3★ on CodeChef
 * 🧩 Solved 1000+ DSA Problems
